@@ -1,1 +1,1 @@
-# Class37_KS
+# C36-teacher-reference
